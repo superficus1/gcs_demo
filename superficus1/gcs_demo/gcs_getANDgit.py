@@ -18,7 +18,9 @@ blob_list = list(bucket.list_blobs())
 
 blobList = [file.name for file in blob_list if '.json' in file.name]
 
-fileName = "C:/Users/crist/Desktop/vscode_projects/GCS_script/download/master.json"
+dirname = os.path.dirname(__file__)
+fileName = os.path.join(dirname, 'download/master.json')
+#fileName = "C:/Users/crist/Desktop/vscode_projects/GCS_script/download/master.json"
 stringIncipit = "\"grafana_test_jsons\" : ["
 
 with open(fileName,"a") as file_obj:
