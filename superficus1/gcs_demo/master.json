@@ -6,697 +6,167 @@
     "timeStamp":"2022-07-22T10_12_35UTC",
     "latitude":"",
     "longitude":"",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T10:12:37.006Z.jpg"
-    "randomNumber":"0.8597922402969246"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T10:12:37.006Z.jpg",
+    "randomNumber":"0.3311488456585884"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_10_14UTC",
     "latitude":"",
     "longitude":"",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:15.674Z.jpg"
-    "randomNumber":"0.0048158210240316635"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:15.674Z.jpg",
+    "randomNumber":"0.3249292274119837"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_10_16UTC",
     "latitude":"44.34941244",
     "longitude":"11.69729581",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:17.595Z.jpg"
-    "randomNumber":"0.47934375129701234"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:17.595Z.jpg",
+    "randomNumber":"0.4589220608938017"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_10_18UTC",
     "latitude":"44.34941244",
     "longitude":"11.69729581",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:19.649Z.jpg"
-    "randomNumber":"0.03859030440437661"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:19.649Z.jpg",
+    "randomNumber":"0.6083453523172825"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_10_20UTC",
     "latitude":"44.34943918",
     "longitude":"11.6975037",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:21.751Z.jpg"
-    "randomNumber":"0.1912710634785857"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:21.751Z.jpg",
+    "randomNumber":"0.2056061681144502"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_10_22UTC",
     "latitude":"44.34945816",
     "longitude":"11.69745445",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:23.756Z.jpg"
-    "randomNumber":"0.06090574081108002"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:10:23.756Z.jpg",
+    "randomNumber":"0.6168666124108841"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_10_54UTC",
     "latitude":"44.34945079",
     "longitude":"11.6974733",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:04.017Z.jpg"
-    "randomNumber":"0.6421826095860226"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:04.017Z.jpg",
+    "randomNumber":"0.5018099499122013"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_10_56UTC",
     "latitude":"44.34945075",
     "longitude":"11.6974732",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:04.865Z.jpg"
-    "randomNumber":"0.3241249075772442"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:04.865Z.jpg",
+    "randomNumber":"0.3183828962295502"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_10_58UTC",
     "latitude":"44.34945075",
     "longitude":"11.6974732",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:05.832Z.jpg"
-    "randomNumber":"0.25142819164081787"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:05.832Z.jpg",
+    "randomNumber":"0.3645806223572078"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_00UTC",
     "latitude":"44.3494506",
     "longitude":"11.69747321",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:06.746Z.jpg"
-    "randomNumber":"0.7532511710053593"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:06.746Z.jpg",
+    "randomNumber":"0.7933746648719221"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_02UTC",
     "latitude":"44.34945059",
     "longitude":"11.69747321",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:07.998Z.jpg"
-    "randomNumber":"0.71981603517449"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:07.998Z.jpg",
+    "randomNumber":"0.28899466682429986"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_04UTC",
     "latitude":"44.34945045",
     "longitude":"11.69747331",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:09.704Z.jpg"
-    "randomNumber":"0.6539287343834329"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:09.704Z.jpg",
+    "randomNumber":"0.5982447509949588"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_06UTC",
     "latitude":"44.3494504",
     "longitude":"11.69747324",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:10.575Z.jpg"
-    "randomNumber":"0.47651299268152636"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:10.575Z.jpg",
+    "randomNumber":"0.6799592996994696"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_08UTC",
     "latitude":"44.3494504",
     "longitude":"11.69747324",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:11.421Z.jpg"
-    "randomNumber":"0.4325899165401146"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:11.421Z.jpg",
+    "randomNumber":"0.2773895396898436"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_10UTC",
     "latitude":"44.34945034",
     "longitude":"11.69747321",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:13.775Z.jpg"
-    "randomNumber":"0.765308950708097"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:13.775Z.jpg",
+    "randomNumber":"0.7127091349189674"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_12UTC",
     "latitude":"44.34945031",
     "longitude":"11.69747306",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:14.608Z.jpg"
-    "randomNumber":"0.8008063500545158"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:14.608Z.jpg",
+    "randomNumber":"0.9216036285172204"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_14UTC",
     "latitude":"44.34945018",
     "longitude":"11.69747304",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:15.738Z.jpg"
-    "randomNumber":"0.16158962492472717"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:15.738Z.jpg",
+    "randomNumber":"0.3715986578321968"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_16UTC",
     "latitude":"44.34945018",
     "longitude":"11.69747304",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:17.720Z.jpg"
-    "randomNumber":"0.20976868182550312"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:17.720Z.jpg",
+    "randomNumber":"0.924519803824129"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_18UTC",
     "latitude":"44.34945013",
     "longitude":"11.69747288",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:19.871Z.jpg"
-    "randomNumber":"0.2277505212857155"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:19.871Z.jpg",
+    "randomNumber":"0.5700483763353651"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_20UTC",
     "latitude":"44.34944984",
     "longitude":"11.69747299",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:21.686Z.jpg"
-    "randomNumber":"0.4262107537148413"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:21.686Z.jpg",
+    "randomNumber":"0.9559584417592789"
 }
 ,{
     "deviceId":"da077a88f32c7c3b",
     "timeStamp":"2022-07-22T13_11_22UTC",
     "latitude":"44.349449",
     "longitude":"11.69747279",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:23.871Z.jpg"
-    "randomNumber":"0.3561690628803491"
+    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:23.871Z.jpg",
+    "randomNumber":"0.6308623053405248"
 }
-,{
-    "deviceId":"da077a88f32c7c3b",
-    "timeStamp":"2022-07-22T13_11_24UTC",
-    "latitude":"44.34944862",
-    "longitude":"11.69747328",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/da077a88f32c7c3b/2022-07-22T13:11:25.924Z.jpg"
-    "randomNumber":"0.719274821133773"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:24:55.624770564+02:00",
-    "latitude":"",
-    "longitude":"",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:25:00.706Z.jpg"
-    "randomNumber":"0.9895776440088582"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:25:00.545417958+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:25:09.796Z.jpg"
-    "randomNumber":"0.038580947698132695"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:25:05.527881706+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:25:15.095Z.jpg"
-    "randomNumber":"0.048370796637554614"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:25:10.481623475+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:25:25.199Z.jpg"
-    "randomNumber":"0.9444494300677271"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:25:15.510481598+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:25:30.268Z.jpg"
-    "randomNumber":"0.07024406103328251"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:25:20.506828315+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:25:36.041Z.jpg"
-    "randomNumber":"0.3216421809044807"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:47:30.516164939+02:00",
-    "latitude":"",
-    "longitude":"",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:47:36.014Z.jpg"
-    "randomNumber":"0.47899466549123315"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:47:35.503561396+02:00",
-    "latitude":"44.3497716",
-    "longitude":"11.6995352",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:47:44.467Z.jpg"
-    "randomNumber":"0.60189949912084"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:47:40.454001863+02:00",
-    "latitude":"44.3497716",
-    "longitude":"11.6995352",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:47:50.154Z.jpg"
-    "randomNumber":"0.7212405139754215"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:47:45.461142746+02:00",
-    "latitude":"44.3497716",
-    "longitude":"11.6995352",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:47:59.369Z.jpg"
-    "randomNumber":"0.4516681738058206"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:47:50.478688682+02:00",
-    "latitude":"44.3497716",
-    "longitude":"11.6995352",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:05.168Z.jpg"
-    "randomNumber":"0.6470941276539453"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:47:55.509833315+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:10.743Z.jpg"
-    "randomNumber":"0.8145061471489049"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:00.502177428+02:00",
-    "latitude":"44.3497716",
-    "longitude":"11.6995352",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:19.131Z.jpg"
-    "randomNumber":"0.2513744151810795"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:05.504952374+02:00",
-    "latitude":"44.3497716",
-    "longitude":"11.6995352",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:25.042Z.jpg"
-    "randomNumber":"0.28665098262069955"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:10.532283257+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:29.962Z.jpg"
-    "randomNumber":"0.4214208207498803"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:15.514366432+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:35.573Z.jpg"
-    "randomNumber":"0.2010091004994803"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:20.468143879+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:44.638Z.jpg"
-    "randomNumber":"0.24766881439847865"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:25.487387106+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:49.784Z.jpg"
-    "randomNumber":"0.3771538532220865"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:30.541626166+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:48:55.060Z.jpg"
-    "randomNumber":"0.2964282409369581"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:35.46825981+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:00.362Z.jpg"
-    "randomNumber":"0.616604083293761"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:40.468344913+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:05.835Z.jpg"
-    "randomNumber":"0.9149353700099222"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:45.525489859+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:14.635Z.jpg"
-    "randomNumber":"0.06521273493037694"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:50.546133086+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:20.087Z.jpg"
-    "randomNumber":"0.0878232504505152"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:48:55.476427355+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:25.072Z.jpg"
-    "randomNumber":"0.6225464166934116"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:00.459102353+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:30.615Z.jpg"
-    "randomNumber":"0.8669053259366094"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:05.476541778+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:35.652Z.jpg"
-    "randomNumber":"0.6204588173083001"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:10.493354589+02:00",
-    "latitude":"44.3502445",
-    "longitude":"11.7006026",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:41.492Z.jpg"
-    "randomNumber":"0.9694902706442683"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:15.463042972+02:00",
-    "latitude":"44.3502445",
-    "longitude":"11.7006026",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:49.922Z.jpg"
-    "randomNumber":"0.7243041093304243"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:20.507542345+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:49:55.990Z.jpg"
-    "randomNumber":"0.5476112103062731"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:25.492094479+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:01.225Z.jpg"
-    "randomNumber":"0.6094902889990269"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:30.459169893+02:00",
-    "latitude":"44.3502445",
-    "longitude":"11.7006026",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:07.113Z.jpg"
-    "randomNumber":"0.6529135230493867"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:35.511079371+02:00",
-    "latitude":"44.3502445",
-    "longitude":"11.7006026",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:13.085Z.jpg"
-    "randomNumber":"0.9905495762357084"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:40.495628848+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:17.949Z.jpg"
-    "randomNumber":"0.0703259106319285"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:45.513088638+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:23.034Z.jpg"
-    "randomNumber":"0.9985669646443299"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:50.49055499+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:28.445Z.jpg"
-    "randomNumber":"0.14532960299587394"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:49:55.476790457+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:32.819Z.jpg"
-    "randomNumber":"0.7875236873967231"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:00.496735559+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:36.930Z.jpg"
-    "randomNumber":"0.29644267671211666"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:05.47349962+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:41.740Z.jpg"
-    "randomNumber":"0.6918579699369867"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:10.477720399+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:46.512Z.jpg"
-    "randomNumber":"0.5879555706175651"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:15.490008522+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:51.219Z.jpg"
-    "randomNumber":"0.2950867130559469"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:20.470110656+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:50:56.197Z.jpg"
-    "randomNumber":"0.15945846983779988"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:25.497097945+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:02.001Z.jpg"
-    "randomNumber":"0.6201969563414029"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:30.484461016+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:09.352Z.jpg"
-    "randomNumber":"0.20244929083712482"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:35.491290442+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:14.161Z.jpg"
-    "randomNumber":"0.047258483423498365"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:40.457934815+02:00",
-    "latitude":"44.3497716",
-    "longitude":"11.6995352",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:19.957Z.jpg"
-    "randomNumber":"0.9859625444725315"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:45.450352104+02:00",
-    "latitude":"44.3497716",
-    "longitude":"11.6995352",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:25.835Z.jpg"
-    "randomNumber":"0.8637915902049715"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:50.456930748+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:30.901Z.jpg"
-    "randomNumber":"0.5354370873286108"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:50:55.463645955+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:35.909Z.jpg"
-    "randomNumber":"0.16560130294019337"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:00.480291057+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:42.505Z.jpg"
-    "randomNumber":"0.3828600786880453"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:05.481841628+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:48.361Z.jpg"
-    "randomNumber":"0.4235608373463714"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:10.479249647+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:54.501Z.jpg"
-    "randomNumber":"0.5136744189236568"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:15.447436989+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:51:59.591Z.jpg"
-    "randomNumber":"0.1362384264119454"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:20.49965782+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:05.171Z.jpg"
-    "randomNumber":"0.7664759929059268"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:25.504832506+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:09.763Z.jpg"
-    "randomNumber":"0.8783544856388382"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:30.463341306+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:14.047Z.jpg"
-    "randomNumber":"0.5826702681856079"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:35.45347219+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:19.038Z.jpg"
-    "randomNumber":"0.8751031913356655"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:40.485677865+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:24.204Z.jpg"
-    "randomNumber":"0.3933182871667117"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:45.476831404+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:29.616Z.jpg"
-    "randomNumber":"0.914310074393696"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:50.503236403+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:34.409Z.jpg"
-    "randomNumber":"0.9758429091117677"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:51:55.459443328+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:44.261Z.jpg"
-    "randomNumber":"0.6109007535215945"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:52:00.451096034+02:00",
-    "latitude":"44.3513036",
-    "longitude":"11.6988236",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:49.800Z.jpg"
-    "randomNumber":"0.5431133027030652"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:52:05.440688741+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:52:55.018Z.jpg"
-    "randomNumber":"0.12638177436133058"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:52:10.472058582+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:53:00.035Z.jpg"
-    "randomNumber":"0.9111519608956579"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:52:15.436424935+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:53:05.231Z.jpg"
-    "randomNumber":"0.41034357784524755"
-}
-,{
-    "deviceId":"e67a221386e6bc13",
-    "timeStamp":"2022-07-14T22:52:20.426199777+02:00",
-    "latitude":"44.3502813",
-    "longitude":"11.7002468",
-    "imageFileURI":"gs://awentia-data-collection-eu-ita-2022-prod/e67a221386e6bc13/2022-07-14T20:53:09.987Z.jpg"
-    "randomNumber":"0.9390091644975518"
-}
-
-]
-}
+,
